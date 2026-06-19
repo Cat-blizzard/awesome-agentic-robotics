@@ -1,4 +1,4 @@
-# Awesome Agentic Robotics
+# Awesome Agentic Robotics [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of research on **Agentic Robotics**: memory, planning, world models, verification, failure recovery, tool use, and safety for physical agents.
 
