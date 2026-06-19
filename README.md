@@ -133,6 +133,31 @@ This repository follows a compact Awesome-list style: entries are grouped by top
 
 > LLM/VLM-based planning, grounded reasoning, task decomposition, value maps, and closed-loop feedback.
 
+### 2026
+
+- \[2026.4] RoboAgent: Chaining Basic Capabilities for Embodied Task Planning [paper](https://arxiv.org/abs/2604.07774)
+- \[2026.2] PLanAR: Planning-Language-Grounded Agentic Reasoning for Robot Manipulation [paper](https://arxiv.org/abs/2602.01662)
+
+### 2025
+
+- \[2025.11] LLM-GROP: Visually Grounded Robot Task and Motion Planning with Large Language Models [paper](https://arxiv.org/abs/2511.07727)
+- \[2025.9] Robix: A Unified Model for Robot Interaction, Reasoning and Planning [paper](https://arxiv.org/abs/2509.01106)
+- \[2025.9] OmniEVA: Embodied Versatile Planner via Task-Adaptive 3D-Grounded and Embodiment-aware Reasoning [paper](https://arxiv.org/abs/2509.09332)
+- \[2025.9] Reinforced Embodied Planning with Verifiable Reward for Real-World Robotic Manipulation [paper](https://arxiv.org/abs/2509.25852)
+- \[2025.6] Unleashing Embodied Task Planning Ability in LLMs via Reinforcement Learning [paper](https://arxiv.org/abs/2506.23127)
+- \[2025.3] LLM+MAP: Bimanual Robot Task Planning using Large Language Models and Planning Domain Definition Language [paper](https://arxiv.org/abs/2503.17309)
+- \[2025.3] Safety Aware Task Planning via Large Language Models in Robotics [paper](https://arxiv.org/abs/2503.15707)
+
+### 2024
+
+- \[2024.12] Multi-Modal Grounded Planning and Efficient Replanning For Learning Embodied Agents with A Few Examples [paper](https://arxiv.org/abs/2412.17288)
+- \[2024.8] Autonomous Behavior Planning For Humanoid Loco-manipulation Through Grounded Language Model [paper](https://arxiv.org/abs/2408.08282)
+- \[2024.7] LLaMAR: Long-Horizon Planning for Multi-Agent Robots in Partially Observable Environments [paper](https://arxiv.org/abs/2407.10031)
+- \[2024.4] Long-horizon Locomotion and Manipulation on a Quadrupedal Robot with Large Language Models [paper](https://arxiv.org/abs/2404.05291)
+- \[2024.3] CoPa: General Robotic Manipulation through Spatial Constraints of Parts with Foundation Models [paper](https://arxiv.org/abs/2403.08248)
+- \[2024.2] Grounding LLMs For Robot Task Planning Using Closed-loop State Feedback [paper](https://arxiv.org/abs/2402.08546)
+- \[2024.2] Verifiably Following Complex Robot Instructions with Foundation Models [paper](https://arxiv.org/abs/2402.11498)
+
 ### 2023
 
 - \[2023.7] VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models [paper](https://arxiv.org/abs/2307.05973) [project](https://voxposer.github.io/)
