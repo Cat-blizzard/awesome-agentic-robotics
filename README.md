@@ -202,10 +202,6 @@ This repository follows a compact Awesome-list style: entries are grouped by top
 
 - \[2025.6] V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning [paper](https://arxiv.org/abs/2506.09985)
 
-### 2023
-
-- \[2023.10] TD-MPC2: Scalable, Robust World Models for Continuous Control [paper](https://arxiv.org/abs/2310.16828)
-
 ---
 
 ## Verification and Self-Evaluation
@@ -304,20 +300,6 @@ This repository follows a compact Awesome-list style: entries are grouped by top
 
 - \[2025.4] pi0.5: a Vision-Language-Action Model with Open-World Generalization [paper](https://arxiv.org/abs/2504.16054)
 
-### 2024
-
-- \[2024.10] pi0: A Vision-Language-Action Flow Model for General Robot Control [paper](https://arxiv.org/abs/2410.24164)
-- \[2024.6] OpenVLA: An Open-Source Vision-Language-Action Model [paper](https://arxiv.org/abs/2406.09246) [code](https://github.com/openvla/openvla)
-
-### 2023
-
-- \[2023.4] Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware [paper](https://arxiv.org/abs/2304.13705)
-- \[2023.3] Diffusion Policy: Visuomotor Policy Learning via Action Diffusion [paper](https://arxiv.org/abs/2303.04137)
-
-### 2021
-
-- \[2021.12] CALVIN: A Benchmark for Language-Conditioned Policy Learning for Long-Horizon Robot Manipulation Tasks [paper](https://arxiv.org/abs/2112.03227)
-
 ---
 
 ## Embodied Navigation Agents
@@ -344,7 +326,6 @@ This repository follows a compact Awesome-list style: entries are grouped by top
 - \[2024.12] \[RSS 25] Uni-NaVid: A Video-based Vision-Language-Action Model for Unifying Embodied Navigation Tasks [paper](https://arxiv.org/abs/2412.06224) [project](https://pku-epic.github.io/Uni-NaVid/)
 - \[2024.4] GOAT-Bench: A Benchmark for Multi-Modal Lifelong Navigation [paper](https://arxiv.org/abs/2404.06609)
 - \[2024.4] VLM-Social-Nav: Socially Aware Robot Navigation through Scoring Using Vision-Language Models [paper](https://arxiv.org/html/2404.00210v1)
-- \[2024.2] Vision-Language Navigation with Embodied Intelligence [paper](https://arxiv.org/html/2402.14304v1)
 
 ### 2023
 
@@ -370,13 +351,11 @@ This repository follows a compact Awesome-list style: entries are grouped by top
 
 ### 2024
 
-- \[2024.5] Leveraging Large Language Models in Human-Robot Interaction [paper](https://arxiv.org/html/2405.00693v2)
 - \[2024.2] Conversational Language Models for Human-in-the-Loop Multi-Robot Coordination [paper](https://arxiv.org/abs/2402.19166)
 - \[2024.1] Understanding LLM-powered Human-Robot Interaction [paper](https://arxiv.org/abs/2401.03217)
 
 ### 2023
 
-- \[2023.7] A Survey on Dialogue Management in Human-Robot Interaction [paper](https://arxiv.org/abs/2307.10897)
 - \[2023.3] Large Language Models as Zero-Shot Human Models for Human-Robot Interaction [paper](https://arxiv.org/abs/2303.03548)
 
 ---
@@ -416,6 +395,10 @@ This repository follows a compact Awesome-list style: entries are grouped by top
 - \[2023.10] Open X-Embodiment: Robotic Learning Datasets and RT-X Models [paper](https://arxiv.org/abs/2310.08864) [code](https://github.com/google-deepmind/open_x_embodiment)
 - \[2023.8] BridgeData V2: A Dataset for Robot Learning at Scale [paper](https://arxiv.org/abs/2308.12952)
 - \[2023.6] LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning [paper](https://arxiv.org/abs/2306.03310)
+
+### 2021
+
+- \[2021.12] CALVIN: A Benchmark for Language-Conditioned Policy Learning for Long-Horizon Robot Manipulation Tasks [paper](https://arxiv.org/abs/2112.03227)
 
 ---
 
