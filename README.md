@@ -79,7 +79,19 @@ This repository follows a compact Awesome-list style: entries are grouped by top
 
 ## Agentic Robotics Architectures
 
-> Architectures that combine reasoning, execution, verification, memory, skill selection, or multi-agent coordination.
+> End-to-end or multi-module robot-agent systems that organize planning, execution, memory, verification, recovery, skill selection, tool interfaces, or multi-agent coordination.
+
+### 2026
+
+- \[2026.6] What Matters in Orchestrating Robot Policies: A Systematic Study of Hierarchical VLA Agents [paper](https://arxiv.org/abs/2606.10267)
+- \[2026.6] Agentic Neuro-Symbolic Planning and Commissioning for Human-in-the-Loop Industrial Robotics with Digital Twins [paper](https://arxiv.org/abs/2606.08214)
+- \[2026.6] VoLo: A Physical Orchestrator for Open-Vocabulary Long-Horizon Manipulation [paper](https://arxiv.org/abs/2606.07723)
+- \[2026.4] Long-Term Memory for VLA-based Agents in Open-World Task Execution [paper](https://arxiv.org/abs/2604.15671)
+- \[2026.4] A Physical Agentic Loop for Language-Guided Grasping with Execution-State Monitoring [paper](https://arxiv.org/abs/2604.07395)
+- \[2026.4] ROSClaw: A Hierarchical Semantic-Physical Framework for Heterogeneous Multi-Agent Collaboration [paper](https://arxiv.org/abs/2604.04664)
+- \[2026.3] RoboClaw: An Agentic Framework for Scalable Long-Horizon Robotic Tasks [paper](https://arxiv.org/abs/2603.11558)
+- \[2026.2] Agentic AI for Robot Control: Flexible but still Fragile [paper](https://arxiv.org/abs/2602.13081)
+- \[2026.2] PLanAR: Planning-Language-Grounded Agentic Reasoning for Robot Manipulation [paper](https://arxiv.org/abs/2602.01662)
 
 ### 2025
 
@@ -132,7 +144,6 @@ This repository follows a compact Awesome-list style: entries are grouped by top
 ### 2026
 
 - \[2026.4] RoboAgent: Chaining Basic Capabilities for Embodied Task Planning [paper](https://arxiv.org/abs/2604.07774)
-- \[2026.2] PLanAR: Planning-Language-Grounded Agentic Reasoning for Robot Manipulation [paper](https://arxiv.org/abs/2602.01662)
 
 ### 2025
 
@@ -255,7 +266,6 @@ This repository follows a compact Awesome-list style: entries are grouped by top
 
 - \[2026.6] CLASP: Language-Driven Robot Skill Selection and Composition using Task-Parameterized Learning [paper](https://arxiv.org/abs/2606.08169)
 - \[2026.3] ROSClaw: An OpenClaw ROS 2 Framework for Agentic Robot Control and Interaction [paper](https://arxiv.org/abs/2603.26997)
-- \[2026.3] RoboClaw: An Agentic Framework for Scalable Long-Horizon Robotic Tasks [paper](https://arxiv.org/abs/2603.11558)
 - \[2026.3] CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation [paper](https://arxiv.org/abs/2603.22435)
 - \[2026.3] Uni-Skill: Building Self-Evolving Skill Repository for Generalizable Robotic Manipulation [paper](https://arxiv.org/abs/2603.02623)
 - \[2026.1] ALRM: Agentic LLM for Robotic Manipulation [paper](https://arxiv.org/abs/2601.19510)
@@ -281,8 +291,6 @@ This repository follows a compact Awesome-list style: entries are grouped by top
 ### 2026
 
 - \[2026.6] SERF: Spatiotemporal Environment and Robot Feature Map for Long-Horizon Mobile Manipulation [paper](https://arxiv.org/abs/2606.12956)
-- \[2026.6] What Matters in Orchestrating Robot Policies: A Systematic Study of Hierarchical VLA Agents [paper](https://arxiv.org/abs/2606.10267)
-- \[2026.6] VoLo: A Physical Orchestrator for Open-Vocabulary Long-Horizon Manipulation [paper](https://arxiv.org/abs/2606.07723)
 - \[2026.4] Long-Horizon Manipulation via Trace-Conditioned VLA Planning [paper](https://arxiv.org/abs/2604.21924)
 - \[2026.4] HELM: Harness-Enhanced Long-horizon Memory for Vision-Language-Action Manipulation [paper](https://arxiv.org/abs/2604.18791)
 - \[2026.4] Goal2Skill: Long-Horizon Manipulation with Adaptive Planning and Reflection [paper](https://arxiv.org/abs/2604.13942)
