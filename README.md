@@ -98,13 +98,13 @@ This repository follows a compact Awesome-list style: entries are grouped by top
 
 - \[2025.10] Gemini Robotics 1.5: Pushing the Frontier of Generalist Robots with Advanced Embodied Reasoning, Thinking, and Motion Transfer [paper](https://arxiv.org/abs/2510.03342)
 - \[2025.5] Agentic Robot: A Brain-Inspired Framework for Vision-Language-Action Models in Embodied Agents [paper](https://arxiv.org/abs/2505.23450) [project](https://dreampolicy.github.io/)
-- \[2025.5] RoBridge: A Hierarchical Architecture Bridging Cognition and Execution for General Robotic Manipulation [paper](https://arxiv.org/abs/2505.01709) [project](https://abliao.github.io/RoBridge/)
-- \[2025.3] CLEA: Closed-Loop Embodied Agent for Enhancing Task Execution in Dynamic Environments [paper](https://arxiv.org/abs/2503.00729)
+- \[2025.5] RoBridge: A Hierarchical Architecture Bridging Cognition and Execution for General Robotic Manipulation [paper](https://arxiv.org/abs/2505.01709) [project](https://abliao.github.io/RoBridge/) [code](https://github.com/abliao/RoBridge)
+- \[2025.3] CLEA: Closed-Loop Embodied Agent for Enhancing Task Execution in Dynamic Environments [paper](https://arxiv.org/abs/2503.00729) [project](https://sp4595.github.io/CLEA/) [code](https://github.com/SP4595/CLEA-Closed-Loop-Embodied-Agent)
 - \[2025.2] Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models [paper](https://arxiv.org/html/2502.19417v1) [project](https://www.pi.website/research/hirobot)
 
 ### 2023
 
-- \[2023.9] SMART-LLM: Smart Multi-Agent Robot Task Planning using Large Language Models [paper](https://arxiv.org/abs/2309.10062)
+- \[2023.9] SMART-LLM: Smart Multi-Agent Robot Task Planning using Large Language Models [paper](https://arxiv.org/abs/2309.10062) [project](https://sites.google.com/view/smart-llm/) [code](https://github.com/SMARTlab-Purdue/SMART-LLM)
 
 ### 2022
 
@@ -159,7 +159,7 @@ This repository follows a compact Awesome-list style: entries are grouped by top
 - \[2025.6] Unleashing Embodied Task Planning Ability in LLMs via Reinforcement Learning [paper](https://arxiv.org/abs/2506.23127)
 - \[2025.3] Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks [paper](https://arxiv.org/abs/2503.21696) [project](https://embodied-reasoner.github.io/)
 - \[2025.3] LLM+MAP: Bimanual Robot Task Planning using Large Language Models and Planning Domain Definition Language [paper](https://arxiv.org/abs/2503.17309) [code](https://github.com/Kchu/LLM-MAP)
-- \[2025.3] GraspCoT: Integrating Physical Property Reasoning for 6-DoF Grasping under Flexible Language Instructions [paper](https://arxiv.org/abs/2503.16013)
+- \[2025.3] GraspCoT: Integrating Physical Property Reasoning for 6-DoF Grasping under Flexible Language Instructions [paper](https://arxiv.org/abs/2503.16013) [code](https://github.com/cxmomo/GraspCoT)
 - \[2025.3] Safety Aware Task Planning via Large Language Models in Robotics [paper](https://arxiv.org/abs/2503.15707)
 - \[2025.3] Code-as-Symbolic-Planner: Foundation Model-Based Robot Planning via Symbolic Code Generation [paper](https://arxiv.org/abs/2503.01700) [project](https://yongchao98.github.io/Code-Symbol-Planner/)
 
