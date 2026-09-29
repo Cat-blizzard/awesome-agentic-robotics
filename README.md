@@ -328,6 +328,8 @@ This stack is a research lens rather than a claim that every system must use the
 
 > Benchmarks, simulators, and datasets for generalist policies, long-horizon tasks, lifelong transfer, navigation, multi-robot systems, manipulation, recovery, and embodied safety.
 
+- [2026.9 · EmbodiedMemory-Bench: Benchmarking Embodied Memory for Long-Horizon Embodied Tasks](https://arxiv.org/abs/2609.28236) - Evaluates how agents retain visual details, track changing world states, remember interaction outcomes, and reuse experience through 2,554 executable episodes, with an external memory-system baseline. Resources: [Project](https://zju-omniai.github.io/Embodied-Omni/EmbodiedMemoryBench/) · [Code](https://github.com/ZJU-OmniAI/Embodied-Omni/tree/main/embodied_memory) · [Dataset](https://huggingface.co/datasets/lzLiang/EmbodiedMemoryBench).
+
 - [2026.3 · RoboCasa365: A Large-Scale Simulation Framework for Generalist Robot Policies](https://arxiv.org/html/2603.04356v1) - Expands everyday manipulation simulation with broad tasks and environments for training and evaluating generalist, long-horizon robot policies across varied settings.
 - [2025.4 · RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins](https://arxiv.org/abs/2504.13059) - Uses generative digital twins to scale diverse dual-arm manipulation tasks, data collection, and reproducible policy evaluation across varied scenes.
 - [2023.10 · Habitat 3.0: A Co-Habitat for Humans, Avatars and Robots](https://arxiv.org/abs/2310.13724) - Provides interactive human-avatar-robot simulation for studying navigation, collaboration, and socially situated embodied agents at scale across collaborative tasks.
